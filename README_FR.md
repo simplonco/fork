@@ -1,5 +1,7 @@
 # Fork?
 
+![Fork](http://all4desktop.com/data_images/original/4244680-fork.jpg)
+
 ## Wordpress
 
 * Télécharger Wordpress :
