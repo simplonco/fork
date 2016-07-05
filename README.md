@@ -6,7 +6,7 @@
 
 ## Web Developer: Wordpress Integrator
 
-_**Keywords:** System administration, Wordpress (Creating themes and plugins) | Wireframing, WebDesign, Project management, Ecommerce_
+_**Keywords:** System administration, Wordpress (Creating themes and plugins), Wireframing, WebDesign, Project management, Ecommerce_
 
 * Download Wordpress:
 https://wordpress.org/
