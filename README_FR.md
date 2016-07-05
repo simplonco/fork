@@ -2,7 +2,11 @@
 
 ![Fork](http://all4desktop.com/data_images/original/4244680-fork.jpg)
 
-## Wordpress
+**Vous devez choisir votre parcours d'apprentissage pour les prochains mois, essayer de faire les deux exercices!**
+
+## Développeur Web: Intégration Wordpress
+
+_** Mots-clés:** Administration système | Wordpress (Création de thèmes et plugins) | Wireframing, Web Design, Gestion de projet, Ecommerce_
 
 * Télécharger Wordpress :
 https://wordpress.org/
@@ -16,7 +20,13 @@ https://jetpack.com/
 et le connecter avec l'application Wordpress
 https://developer.wordpress.com/calypso/
 
-## PHP avancé
+**Vous devez avoir un blog fonctionnel sur votre ordinateur pour faire ce Fork!**
+
+## Développeur Web: PHP avancé
+
+_**Mots-clés:** POO (UML), Symphony (MVC), Séploiement, Tests, Securité_
 
 Valider le plus de challenges possibles pour prouver que vous comprenez l'algorithmique et la programmation orientée objet :
 https://github.com/simplonco/php-challenges/
+
+**Vous devez valider au moins 3 exercices pour faire ce Fork!**
