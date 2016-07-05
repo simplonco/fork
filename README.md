@@ -2,19 +2,19 @@
 
 ## Wordpress
 
-* Download wordpress
+* Download Wordpress:
 https://wordpress.org/
 
-* Make it work on your computer with your local MySQL Database
+* Make it work your computer with your local MySQL database.
 
-* Install a beautifull theme, cusotmize content
+* Install a nice theme, add custom content.
 
-* Enable jetpack plugin
+* Activate the JetPack plugin
 https://jetpack.com/
-to make it work with wordpress desktop app
+and connect with the Wordpress app
 https://developer.wordpress.com/calypso/
 
 ## Advanced PHP
 
-Do most of challenges to proove you understand algorithms logic and object oriented PHP :
+Validate the most challenges possible to prove that you understand algorithms and object-oriented programming:
 https://github.com/simplonco/php-challenges/
