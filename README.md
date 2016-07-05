@@ -2,6 +2,8 @@
 
 ![Fork](http://all4desktop.com/data_images/original/4244680-fork.jpg)
 
+**You have to choose your learning path for the next months, try to do the two exercises!**
+
 ## Web Developer: Wordpress Integrator
 
 _**Keywords:** System administration | Wordpress (Creating themes and plugins) | Wireframing, WebDesign, Project management, Ecommerce_
