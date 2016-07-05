@@ -6,7 +6,7 @@
 
 ## Développeur Web: Intégration Wordpress
 
-_** Mots-clés:** Administration système | Wordpress (Création de thèmes et plugins) | Wireframing, Web Design, Gestion de projet, Ecommerce_
+_** Mots-clés:** Administration système, Wordpress (Création de thèmes et plugins), Wireframing, Web Design, Gestion de projet, Ecommerce_
 
 * Télécharger Wordpress :
 https://wordpress.org/
