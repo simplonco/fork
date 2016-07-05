@@ -20,7 +20,7 @@ https://jetpack.com/
 and connect with the Wordpress app
 https://developer.wordpress.com/calypso/
 
-**You need to have everythings working on your computer to do this Fork!**
+**You must have a functional website on your computer to do this Fork!**
 
 ## Web Developer: Advanced PHP
 
@@ -29,4 +29,4 @@ _**Keywords:** POO (UML), Symphony (MVC), Deployment, Tests, Security_
 Validate the most challenges possible to prove that you understand algorithms and object-oriented programming:
 https://github.com/simplonco/php-challenges/
 
-**You need to validate almost 3 exercises to do this Fork!**
+**You must validate at least 3 exercises to do this Fork!**
