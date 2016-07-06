@@ -24,7 +24,7 @@ https://developer.wordpress.com/calypso/
 
 ## Développeur Web: PHP avancé
 
-_**Mots-clés:** POO (UML), Symphony (MVC), Séploiement, Tests, Securité_
+_**Mots-clés:** Algorithmique, POO (UML), Symphony (MVC), Séploiement, Tests, Securité_
 
 Valider le plus de challenges possibles pour prouver que vous comprenez l'algorithmique et la programmation orientée objet :
 https://github.com/simplonco/php-challenges/
