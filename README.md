@@ -24,7 +24,7 @@ https://developer.wordpress.com/calypso/
 
 ## Web Developer: Advanced PHP
 
-_**Keywords:** POO (UML), Symphony (MVC), Deployment, Tests, Security_
+_**Keywords:** Algortihms, POO (UML), Symphony (MVC), Deployment, Tests, Security_
 
 Validate the most challenges possible to prove that you understand algorithms and object-oriented programming:
 https://github.com/simplonco/php-challenges/
