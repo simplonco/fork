@@ -15,10 +15,10 @@ https://wordpress.org/
 
 * Installer un thème joli, ajouter du contenu personnalisé.
 
-* Activer le plugin JetPack
+<!--* Activer le plugin JetPack
 https://jetpack.com/
 et le connecter avec l'application Wordpress
-https://developer.wordpress.com/calypso/
+https://developer.wordpress.com/calypso/-->
 
 **Vous devez avoir un blog fonctionnel sur votre ordinateur pour faire ce Fork!**
 
