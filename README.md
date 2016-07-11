@@ -17,13 +17,13 @@ https://wordpress.org/
 
 * Install a nice theme, add custom content.
 
-### Remotely
+### Remotely (Bonus)
 
 * Create an account on https://wordpress.com/
 
 * Activate the JetPack plugin
 https://jetpack.com/
-and connect with the Wordpress app
+and connect http://oli.simplon.co/ with the Wordpress app
 https://developer.wordpress.com/calypso/
 
 **You must have a functional website on your computer to do this Fork!**
