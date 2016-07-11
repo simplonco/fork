@@ -8,6 +8,8 @@
 
 _**Mots-clés:** Administration système, Wordpress (Création de thèmes et plugins), Wireframing, Web Design, Gestion de projet, Ecommerce_
 
+### Localement
+
 * Télécharger Wordpress :
 https://wordpress.org/
 
@@ -15,10 +17,14 @@ https://wordpress.org/
 
 * Installer un thème joli, ajouter du contenu personnalisé.
 
-<!--* Activer le plugin JetPack
+### En ligne
+
+* Créer un compte sur https://wordpress.com/
+
+* Activer le plugin JetPack
 https://jetpack.com/
 et le connecter avec l'application Wordpress
-https://developer.wordpress.com/calypso/-->
+https://developer.wordpress.com/calypso/
 
 **Vous devez avoir un blog fonctionnel sur votre ordinateur pour faire ce Fork!**
 
