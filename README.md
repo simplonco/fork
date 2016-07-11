@@ -8,6 +8,8 @@
 
 _**Keywords:** System administration, Wordpress (Creating themes and plugins), Wireframing, WebDesign, Project management, Ecommerce_
 
+### Locally
+
 * Download Wordpress:
 https://wordpress.org/
 
@@ -15,10 +17,14 @@ https://wordpress.org/
 
 * Install a nice theme, add custom content.
 
-<!--* Activate the JetPack plugin
+### Remotely
+
+* Create an account on https://wordpress.com/
+
+* Activate the JetPack plugin
 https://jetpack.com/
 and connect with the Wordpress app
-https://developer.wordpress.com/calypso/-->
+https://developer.wordpress.com/calypso/
 
 **You must have a functional website on your computer to do this Fork!**
 
